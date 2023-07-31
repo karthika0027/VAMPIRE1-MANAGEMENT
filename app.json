@@ -10,7 +10,7 @@
          "logi",
          "music"
       ],   
-   "repository": "https://github.com/dev-logesh/SuperBot",
+   "repository": "https://github.com/mukeshmoni/VAMPIRE-1-MANAGEMENT",
    "stack": "heroku-20",
    "addons": [
       {
@@ -44,7 +44,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5585538743"
+         "value": "6071068788"
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -66,7 +66,7 @@
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://logesh:logesh@cluster0.z75dh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+         "value": "mongodb+srv://ammu:ammu@cluster0.fmg4lae.mongodb.net/?retryWrites=true&w=majority"
       },
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
