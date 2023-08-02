@@ -5,7 +5,7 @@ class Config(object):
     API_HASH = "a8c943a69022fef3ac66accc7ba8ce6b"
     TOKEN = "5625036376:AAHJS3Tkf13qV8oz10vbYf-ePQY92NH5fj8"
     OWNER_ID = 5477924487
-    OWNER_USERNAME = "ROWDY_OF_PLUS"
+    OWNER_USERNAME = "hackerofrip"
     SUPPORT_CHAT = "Team_Vampir"
     JOIN_LOGGER = ("-1001770039008")
     EVENT_LOGS = ("-1001770039008")
@@ -30,7 +30,7 @@ class Config(object):
     TIGERS = "1955509952"
     WOLVES = "1955509952"
 
-    DONATION_LINK = "https://t.me/ROWDY_OF_PLUS"
+    DONATION_LINK = "https://t.me/hackerofrip"
     CERT_PATH = None
     PORT = 5000
     DEL_CMDS = True

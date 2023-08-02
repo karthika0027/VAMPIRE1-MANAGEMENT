@@ -18,8 +18,8 @@ async def repo(client, message):
         photo=ANON,
         caption=f"""**ʜᴇʏ​ {message.from_user.mention()},\n\nɪ ᴀᴍ [{dispatcher.bot.first_name}](t.me/{dispatcher.bot.username})**
 **» ɴᴇᴛᴡᴏʀᴋ :** @team_vampir
-**» ᴍʏ ᴏᴡɴᴇʀ​ :** [MR. ᭄ 𝕋𝕀𝕄𝔼 𝕋ℝ𝔸𝕍𝔼𝕃𝕃𝔼ℝ😡⃝⃟➛⃟⃟⃝⃝❼½சனி𝕾𝖖𝖚𝖆𝖉࿐⁰⁰⁷](https://t.me/ROWDY_OF_PLUS)
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [➳ᴹᴿ✿࿐𝑳𝑶𝑮𝑬𝑺𝑯⏤͟͟](https://t.me/cl_me_logesh)
+**» ᴍʏ ᴏᴡɴᴇʀ​ :** [MR. ᭄ 𝙷𝙰𝙲𝙺𝙴𝚁😡⃝⃟➛⃟⃟⃝⃝❼½சனி𝕾𝖖𝖚𝖆𝖉࿐⁰⁰⁷](https://t.me/hackerofrip)
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ :** [➳ᴹᴿ✿࿐𝙷𝙰𝙲𝙺𝙴𝚁](https://t.me/hackerofrip)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
